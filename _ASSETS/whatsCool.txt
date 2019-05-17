@@ -1,0 +1,15 @@
+
+    - No Requirement for 'class' keyword creation.
+    - No util.main() Method exists without args
+    - Type Inference and Explicit Type Declaration
+    - Constants via minimal keyword change ( var => val ) encourages constant preference
+    - Easy Types ( Int, String,  )
+    - Explicit 'const' modifier for non-mutable collection variables!
+    - Same primitive types as Java ( Long, Int, Short, Byte, Double, Float, Char, Boolean )!
+    - Easy String substitution ( $name is ${yearNow - yearOfBirth} )
+    - if / else exctly as in Java
+    - Easy package managing!
+
+
+
+
