@@ -1,14 +1,13 @@
-/*
-    fun util.main( args: Array<String> )
-    {
-        println( "Hello Kotlin with Args" )
-    }
-*/
+
+    package util
+
     const val `My Identifier 1$` :String = "Test Identifier"
+    const val TEST_APP :String = "Test App"
 
     fun main()
+    // fun util.util.main( args: Array<String> )
     {
-        println( "Hello Kotlin from util.main" )
+        println( "Hello Kotlin from util.util.main" )
 
         var number = 42
         var message = "Hello"
@@ -26,8 +25,5 @@
         val x: String
         x = "My Value X"
 
-        println( `My Identifier 1$` )
-
-
-
+        println(`My Identifier 1$`)
     }

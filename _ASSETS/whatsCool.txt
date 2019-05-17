@@ -1,6 +1,6 @@
 
     - No Requirement for 'class' keyword creation.
-    - No util.main() Method exists without args
+    - No util.util.main() Method exists without args
     - Type Inference and Explicit Type Declaration
     - Constants via minimal keyword change ( var => val ) encourages constant preference
     - Easy Types ( Int, String,  )
@@ -9,7 +9,10 @@
     - Easy String substitution ( $name is ${yearNow - yearOfBirth} )
     - if / else exctly as in Java
     - Easy package managing!
-
-
-
+    - 1st class IDE support (warnings, errors etc., redundant visibility modifier (public))
+    - Easy collection handling
+    - Easy struct definition ( class Person(val name: String, var age: Int) )
+    - Setters and Getters definition for values, no separate custom setters and getters needed!
+    - Native enums with functionality like in Java
+    - Optional handling and not-null assertions
 
