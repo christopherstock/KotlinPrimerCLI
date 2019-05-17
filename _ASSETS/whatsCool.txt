@@ -16,3 +16,4 @@
     - Native enums with functionality like in Java
     - Optional handling and not-null assertions
 
+    => modern, reduced java shortened language

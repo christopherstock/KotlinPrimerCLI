@@ -5,7 +5,7 @@
     const val TEST_APP :String = "Test App"
 
     fun main()
-    // fun util.util.main( args: Array<String> )
+    // fun main( args: Array<String> )
     {
         println( "Hello Kotlin from util.util.main" )
 
@@ -26,4 +26,8 @@
         x = "My Value X"
 
         println(`My Identifier 1$`)
+
+        val test2 = Test()
+        test2.testMain()
+
     }
